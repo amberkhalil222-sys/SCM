@@ -10,5 +10,7 @@ int main() {
     cout << "4. Verification & Audit\n";
     cout << "5. Release Management\n";
 
+   cout << "5. This is SCM DEMO lab\n";
+
     return 0;
 }
